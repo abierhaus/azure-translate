@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure-translate", "azure-translate\azure-translate.csproj", "{F1B7B258-2EE2-44F3-8B89-6FC99A26C6FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98F86186-7457-46E9-AD14-30EEB8095078}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B7B258-2EE2-44F3-8B89-6FC99A26C6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B7B258-2EE2-44F3-8B89-6FC99A26C6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B7B258-2EE2-44F3-8B89-6FC99A26C6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B7B258-2EE2-44F3-8B89-6FC99A26C6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ADE4EC2-B185-430E-A323-3ABB94E7764F}
+	EndGlobalSection
+EndGlobal
